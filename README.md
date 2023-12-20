@@ -1,1 +1,1 @@
-# python-jango-project
+# python-django-project
